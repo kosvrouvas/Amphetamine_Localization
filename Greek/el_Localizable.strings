@@ -180,7 +180,7 @@
 "gen_use_and" = "και";
 
 // EXAMPLE USAGE: POWER ADAPTER CONNECTED 'OR' BATTERY 100% CHARGED
-"gen_use_or" = "ή ";
+"gen_use_or" = "ή";
 
 // EXAMPLE USAGE: CLICK THE BUTTON LABELED 'SAVE' TO KEEP YOUR CHANGES
 "gen_use_save" = "Αποθήκευση";
